@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132286506529",
+    "project_id": "home-designer-1b4c3",
+    "storage_bucket": "home-designer-1b4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132286506529:android:68fbd8390d211161282560",
+        "android_client_info": {
+          "package_name": "com.finik.decorandmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132286506529-h38s0v94mctvhmq1djok7nr3ngvclffh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmFe9rymjC50cioyB3hoa_rShROXwJ0V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132286506529-h38s0v94mctvhmq1djok7nr3ngvclffh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

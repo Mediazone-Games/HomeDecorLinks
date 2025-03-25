@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034586384521",
+    "project_id": "home-decoration-aff0c",
+    "storage_bucket": "home-decoration-aff0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034586384521:android:0817c2b253c2c56838be58",
+        "android_client_info": {
+          "package_name": "com.mediazonegames.homedecoration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyTLLhQ4lv2YWbfTWiOmDbiOFzXPQ_gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
